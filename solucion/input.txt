@@ -1,0 +1,2403 @@
+ 
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: 10
+  --> node:  7
+--------
+> node: 10
+  --> node:  7
+  --> node:  60
+    --> node:  18
+    --> node:  12
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+> node: alejandros
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+extra
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+extra
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+    --> node: 184
+--> node: 12
+--------
+> node: 10
+--> node: 70
+  --> node: 61
+--------
+> node: alejandros
+--> node: gizmo
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
+extra
+> node: 10
+--> node: 7
+--------
+extra
+> node: 10
+--> node: 7
+--> node: 60
+  --> node: 18
+  --> node: 12
+--------
